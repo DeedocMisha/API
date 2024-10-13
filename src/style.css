@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.but_1{
+    border-radius: 20px;
+    background-color: darkorange;
+    padding: 30px
+}
